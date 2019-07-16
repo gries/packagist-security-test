@@ -1,0 +1,12 @@
+{
+    "name": "gries/packagist-security-test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christoph Rosse",
+            "email": "crosse@2bepublished.at"
+        }
+    ],
+    "require": {}
+}
